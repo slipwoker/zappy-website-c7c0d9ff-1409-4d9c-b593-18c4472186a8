@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Discover online free ebooks and premium masterclasses on a cinematic learning platform. Enjoy free community evenings and expert-led courses in stunning quality.
+
+### Community Evenings
+https://example.com/community-evenings
+Access free textbook pdf resources and join live community evenings. Experience educational content with cinematic quality at no cost. Start learning today.
+
+### Masterclasses
+https://example.com/masterclasses
+Elevate your skills with premium masterclasses from industry experts. Netflix-style learning experience meets world-class education. Explore courses now.
+
+### Contact
+https://example.com/contact
+Questions about our masterclasses or free ebooks? Contact our support team for personalized assistance. We&#39;re here to help you start your learning journey.
+
+### Products
+https://example.com/products
+Our Products - האקדמיה של רן כליף
+
+### Cart
+https://example.com/cart
+Your Cart
+
+### Checkout
+https://example.com/checkout
+Checkout
+
+### Login
+https://example.com/login
+Customer Login
+
+### Account
+https://example.com/account
+My Account
+
+### Order Success
+https://example.com/order-success
+Thank you for your order
+
+### Product Detail
+https://example.com/product/:slug
+Product Details - האקדמיה של רן כליף
+
+### Category
+https://example.com/category/:slug
+Products - האקדמיה של רן כליף
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
